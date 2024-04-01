@@ -1,4 +1,4 @@
-# projects
+# Code Refactor Project
 
 The main goal of this project was to refactor a simple websites html and css. The objective was to make the code more readable for developers editing the project. I started off by making all of the semantic tags more appropriate. Changing "div" to tags like "section", "header" and "article". After this, I had starting editing the CSS to be more efficient. There were repeats of attributes for multiple classes that could be merged to one. After refactoring the CSS, I added notes to each sections of the code for both the HTML and the CSS. This concluded my challenge.
 
