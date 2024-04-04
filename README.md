@@ -6,4 +6,4 @@ The CSS is in the assets folder. The HTML is on the main part of the repository 
 
 ![Website Preview image](01-html-css-git-homework-demo.png)
 
-Link to website: http://127.0.0.1:5500/index.html
+Link to website: https://domspinn.github.io/Code-Refactor-Project-Dominic-Spinnato/
